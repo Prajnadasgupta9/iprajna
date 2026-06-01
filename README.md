@@ -29,18 +29,19 @@ My goal is to utilize my analytical skills to make data-driven decisions
 **Technologies**: Python, Pandas, Numpy  
 **Key Features**:  
 The project uncovered:
-customer buying behavior
-seasonal trends
-peak sales periods
-top-selling products
-city-wise performance
-bulk ordering patterns
-optimal advertisement timing
+1. customer buying behavior
+2. seasonal trends
+3. peak sales periods
+4. top-selling products
+5. city-wise performance
+6. bulk ordering patterns
+7. ptimal advertisement timing
+
 which can help businesses improve:
-marketing
-inventory planning
-pricing strategy
-seasonal promotions.
+1. marketing
+2. inventory planning
+3. pricing strategy
+4. seasonal promotions.
 
 
 ## Languages/Tools 🔪  

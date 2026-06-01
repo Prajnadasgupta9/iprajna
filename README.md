@@ -22,7 +22,7 @@ My goal is to utilize my analytical skills to make data-driven decisions
 
 
 ## Projects 📚   
-**🤯 [EXPLORATORY DATA ANALYSIS]()** 
+**🤯 [EXPLORATORY DATA ANALYSIS](https://github.com/Prajnadasgupta9/Python_Projects)** 
 
 **Domain**: Ecommerce  
 

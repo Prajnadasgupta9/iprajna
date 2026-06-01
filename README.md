@@ -23,10 +23,15 @@ My goal is to utilize my analytical skills to make data-driven decisions
 
 ## Projects 📚   
 **🤯 [EXPLORATORY DATA ANALYSIS]()** 
+
 **Domain**: Ecommerce  
+
 **Date**: 06/2026  
+
 **Description**: This dataset contains sales records from an unspecified store in USA, capturing various details about each transaction, including the product, quantity ordered, price, order date, and purchase address. With over 186,000 records, it offers a comprehensive view of the store's sales activities over time. Performed data analysis on the dataset using pandas in Python to uncover patterns and revenue insights. 
+
 **Technologies**: Python, Pandas, Numpy  
+
 **Key Features**:  
 The project uncovered:
 1. customer buying behavior
